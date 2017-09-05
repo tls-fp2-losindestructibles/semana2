@@ -1,9 +1,16 @@
 body{
-	background-color: #2635DC;
+	background-color: #5D5E67;
 	font-family: arial;
 
 }
 
-h1 , p {
+h1  {
 	text-align: center;
+	color: yellow;
+	font-size: 30px;
+}
+
+p{
+	text-align: center;
+	color: #14EEF2;
 }
